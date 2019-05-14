@@ -1,0 +1,11 @@
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.AssemblyInfoInputs.cache
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.AssemblyInfo.cs
+C:\Users\Adrian Stuar\Desktop\FreeFire\bin\Debug\netcoreapp2.1\FreeFire.deps.json
+C:\Users\Adrian Stuar\Desktop\FreeFire\bin\Debug\netcoreapp2.1\FreeFire.runtimeconfig.json
+C:\Users\Adrian Stuar\Desktop\FreeFire\bin\Debug\netcoreapp2.1\FreeFire.runtimeconfig.dev.json
+C:\Users\Adrian Stuar\Desktop\FreeFire\bin\Debug\netcoreapp2.1\FreeFire.dll
+C:\Users\Adrian Stuar\Desktop\FreeFire\bin\Debug\netcoreapp2.1\FreeFire.pdb
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.dll
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.pdb
+C:\Users\Adrian Stuar\Desktop\FreeFire\obj\Debug\netcoreapp2.1\FreeFire.csprojAssemblyReference.cache

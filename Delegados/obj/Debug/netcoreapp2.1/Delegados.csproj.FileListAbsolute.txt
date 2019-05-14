@@ -1,0 +1,22 @@
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Adrian Stuar\Desktop\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.csprojAssemblyReference.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+C:\Users\Adrian Stuar\Desktop\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb
+G:\repos\Delegados\bin\Debug\netcoreapp2.1\Delegados.deps.json
+G:\repos\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.json
+G:\repos\Delegados\bin\Debug\netcoreapp2.1\Delegados.runtimeconfig.dev.json
+G:\repos\Delegados\bin\Debug\netcoreapp2.1\Delegados.dll
+G:\repos\Delegados\bin\Debug\netcoreapp2.1\Delegados.pdb
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.csprojAssemblyReference.cache
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.csproj.CoreCompileInputs.cache
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfoInputs.cache
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.AssemblyInfo.cs
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.dll
+G:\repos\Delegados\obj\Debug\netcoreapp2.1\Delegados.pdb

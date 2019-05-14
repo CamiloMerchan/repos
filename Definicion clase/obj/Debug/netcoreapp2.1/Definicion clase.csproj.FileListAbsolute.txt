@@ -1,0 +1,11 @@
+C:\Users\Propietario\source\repos\Definicion clase\bin\Debug\netcoreapp2.1\Definicion clase.deps.json
+C:\Users\Propietario\source\repos\Definicion clase\bin\Debug\netcoreapp2.1\Definicion clase.runtimeconfig.json
+C:\Users\Propietario\source\repos\Definicion clase\bin\Debug\netcoreapp2.1\Definicion clase.runtimeconfig.dev.json
+C:\Users\Propietario\source\repos\Definicion clase\bin\Debug\netcoreapp2.1\Definicion clase.dll
+C:\Users\Propietario\source\repos\Definicion clase\bin\Debug\netcoreapp2.1\Definicion clase.pdb
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.csprojAssemblyReference.cache
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.dll
+C:\Users\Propietario\source\repos\Definicion clase\obj\Debug\netcoreapp2.1\Definicion clase.pdb

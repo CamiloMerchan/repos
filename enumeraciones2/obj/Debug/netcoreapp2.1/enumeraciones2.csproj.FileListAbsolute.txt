@@ -1,0 +1,11 @@
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\bin\Debug\netcoreapp2.1\enumeraciones2.deps.json
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\bin\Debug\netcoreapp2.1\enumeraciones2.runtimeconfig.json
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\bin\Debug\netcoreapp2.1\enumeraciones2.runtimeconfig.dev.json
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\bin\Debug\netcoreapp2.1\enumeraciones2.dll
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\bin\Debug\netcoreapp2.1\enumeraciones2.pdb
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.csprojAssemblyReference.cache
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.AssemblyInfoInputs.cache
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.AssemblyInfo.cs
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.dll
+C:\Users\Adrian Stuar\Desktop\enumeraciones2\obj\Debug\netcoreapp2.1\enumeraciones2.pdb

@@ -1,0 +1,11 @@
+C:\Users\Adrian Stuar\Desktop\herencia\bin\Debug\netcoreapp2.1\herencia.deps.json
+C:\Users\Adrian Stuar\Desktop\herencia\bin\Debug\netcoreapp2.1\herencia.runtimeconfig.json
+C:\Users\Adrian Stuar\Desktop\herencia\bin\Debug\netcoreapp2.1\herencia.runtimeconfig.dev.json
+C:\Users\Adrian Stuar\Desktop\herencia\bin\Debug\netcoreapp2.1\herencia.dll
+C:\Users\Adrian Stuar\Desktop\herencia\bin\Debug\netcoreapp2.1\herencia.pdb
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.csprojAssemblyReference.cache
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.csproj.CoreCompileInputs.cache
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.AssemblyInfoInputs.cache
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.AssemblyInfo.cs
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.dll
+C:\Users\Adrian Stuar\Desktop\herencia\obj\Debug\netcoreapp2.1\herencia.pdb

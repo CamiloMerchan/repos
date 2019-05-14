@@ -1,0 +1,17 @@
+C:\Users\Propietario\source\repos\Listas\bin\Debug\netcoreapp2.1\Listas.deps.json
+C:\Users\Propietario\source\repos\Listas\bin\Debug\netcoreapp2.1\Listas.runtimeconfig.json
+C:\Users\Propietario\source\repos\Listas\bin\Debug\netcoreapp2.1\Listas.runtimeconfig.dev.json
+C:\Users\Propietario\source\repos\Listas\bin\Debug\netcoreapp2.1\Listas.dll
+C:\Users\Propietario\source\repos\Listas\bin\Debug\netcoreapp2.1\Listas.pdb
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.csprojAssemblyReference.cache
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.dll
+C:\Users\Propietario\source\repos\Listas\obj\Debug\netcoreapp2.1\Listas.pdb
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.csprojAssemblyReference.cache
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.csproj.CoreCompileInputs.cache
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.AssemblyInfoInputs.cache
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.AssemblyInfo.cs
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.dll
+D:\repos\Listas\obj\Debug\netcoreapp2.1\Listas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Propietario\source\repos\Fechas\bin\Debug\netcoreapp2.1\Fechas.deps.json
+C:\Users\Propietario\source\repos\Fechas\bin\Debug\netcoreapp2.1\Fechas.runtimeconfig.json
+C:\Users\Propietario\source\repos\Fechas\bin\Debug\netcoreapp2.1\Fechas.runtimeconfig.dev.json
+C:\Users\Propietario\source\repos\Fechas\bin\Debug\netcoreapp2.1\Fechas.dll
+C:\Users\Propietario\source\repos\Fechas\bin\Debug\netcoreapp2.1\Fechas.pdb
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.csprojAssemblyReference.cache
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.dll
+C:\Users\Propietario\source\repos\Fechas\obj\Debug\netcoreapp2.1\Fechas.pdb
